@@ -1,0 +1,3 @@
+﻿  echo_sel_serv.c
+C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.c(63,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  echoserver.vcxproj -> C:\Users\Youngil\source\repos\EchoSelect\Debug\echoserver.exe

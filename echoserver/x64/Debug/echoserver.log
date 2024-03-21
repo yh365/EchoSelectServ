@@ -1,0 +1,59 @@
+﻿  echo_sel_serv.cpp
+C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(28,3): error C2664: 'void ErrorHandling(char *)': 인수 1을(를) 'const char [17]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(28,17):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(7,6):
+  'ErrorHandling' 선언을 참조하십시오.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(28,3):
+  인수 목록 '(const char [17])'을(를) 일치시키는 동안
+  
+C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(32,3): error C2664: 'void ErrorHandling(char *)': 인수 1을(를) 'const char [13]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(32,17):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(7,6):
+  'ErrorHandling' 선언을 참조하십시오.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(32,3):
+  인수 목록 '(const char [13])'을(를) 일치시키는 동안
+  
+C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(40,3): error C2664: 'void ErrorHandling(char *)': 인수 1을(를) 'const char [11]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(40,17):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(7,6):
+  'ErrorHandling' 선언을 참조하십시오.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(40,3):
+  인수 목록 '(const char [11])'을(를) 일치시키는 동안
+  
+C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(43,3): error C2664: 'void ErrorHandling(char *)': 인수 1을(를) 'const char [13]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(43,17):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(7,6):
+  'ErrorHandling' 선언을 참조하십시오.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(43,3):
+  인수 목록 '(const char [13])'을(를) 일치시키는 동안
+  
+C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(63,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(74,7): error C2664: 'void ErrorHandling(char *)': 인수 1을(를) 'const char [13]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(74,21):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(7,6):
+  'ErrorHandling' 선언을 참조하십시오.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(74,7):
+  인수 목록 '(const char [13])'을(를) 일치시키는 동안
+  
+C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(78,14): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'SOCKET'입니다.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(78,14):
+  서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(78,14):
+  서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(78,14):
+  서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(90,14): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'SOCKET'입니다.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(90,14):
+  서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(90,14):
+  서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(90,14):
+  서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\Youngil\source\repos\EchoSelect\echoserver\echo_sel_serv.cpp(77,19): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
